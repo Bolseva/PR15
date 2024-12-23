@@ -6,3 +6,11 @@ C:\Users\bolse\source\repos\PR15\PR15\obj\Debug\PR15.csproj.SuggestedBindingRedi
 C:\Users\bolse\source\repos\PR15\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
 C:\Users\bolse\source\repos\PR15\PR15\obj\Debug\PR15.exe
 C:\Users\bolse\source\repos\PR15\PR15\obj\Debug\PR15.pdb
+C:\Users\bolse\PR15\bin\Debug\PR15.exe.config
+C:\Users\bolse\PR15\bin\Debug\PR15.exe
+C:\Users\bolse\PR15\bin\Debug\PR15.pdb
+C:\Users\bolse\PR15\obj\Debug\PR15.csproj.AssemblyReference.cache
+C:\Users\bolse\PR15\obj\Debug\PR15.csproj.SuggestedBindingRedirects.cache
+C:\Users\bolse\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
+C:\Users\bolse\PR15\obj\Debug\PR15.exe
+C:\Users\bolse\PR15\obj\Debug\PR15.pdb

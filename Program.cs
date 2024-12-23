@@ -10,7 +10,7 @@ namespace PR15
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, мир!");
+            Console.WriteLine("Привет");
             Console.ReadLine();
 
         }
